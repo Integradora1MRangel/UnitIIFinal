@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PriceSchedulesVIV</string>
+    <string name="Title">Museo Casa José Alfredo Jiménez</string>
+    <string name="Additional">La vida de Jose Alfredo, en un vistazo</string>
+
+    <string name="Location">Ubicación</string>
+    <string name="Info">Dolores Hidalgo C.I.N, Guanajuato, México
+    Avenida Norte</string>
+    <string name="SchedulesTitle">Horarios</string>
+
+    <string name="ShedulesDay">Lunes-Viernes
+    8:00 am a 5:00 pm</string>
+
+
+    <string name="ShedulesDays">Sábado
+    9:00 am a 4:00 pm</string>
+
+    <string name="ShedulesSunday">Domingo
+    10:00 am a 6:00 pm</string>
+
+    <string name="Map">Ver mapa</string>
+
+    <string name="Facebook">Visitar página
+   </string>
+
+
+</resources>
